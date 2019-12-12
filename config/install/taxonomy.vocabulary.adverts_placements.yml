@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+name: 'Adverts placements'
+vid: adverts_placements
+description: 'Adverts placements.'
+weight: 0

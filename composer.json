@@ -1,0 +1,13 @@
+{
+    "name": "drupal/adverts",
+    "type": "drupal-module",
+    "description": "Provides adverts content management.",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/adverts",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/adverts",
+        "source": "http://cgit.drupalcode.org/adverts"
+    }
+}

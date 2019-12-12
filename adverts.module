@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains adverts.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function adverts_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the adverts module.
+    case 'help.page.adverts':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Provides adverts content management.') . '</p>';
+      return $output;
+
+    default:
+  }
+}
