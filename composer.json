@@ -8,6 +8,6 @@
     "minimum-stability": "dev",
     "support": {
         "issues": "https://www.drupal.org/project/issues/adverts",
-        "source": "http://cgit.drupalcode.org/adverts"
+        "source": "https://git.drupalcode.org/project/adverts"
     }
 }

@@ -1,9 +1,8 @@
 name: Adverts
 type: module
 description: 'Provides adverts content management.'
-core: 8.x
+core_version_requirement: '^8.9 || ^9'
 package: Custom
-core_incompatible: false
 dependencies:
   - language
   - taxonomy
