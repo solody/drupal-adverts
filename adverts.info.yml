@@ -1,7 +1,7 @@
 name: Adverts
 type: module
 description: 'Provides adverts content management.'
-core_version_requirement: '^9.3 || ^10'
+core_version_requirement: ^11
 package: Custom
 dependencies:
   - drupal:language
